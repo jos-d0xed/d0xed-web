@@ -16,7 +16,7 @@ JoS
    * JoS on IRC (obviously)
    * jeremy ::at-symbol:: d0xed.com
    * GPG key A7E5 738C AB8B 0CF9 3D36  A32B 6EF2 50FF E8AF 29C3
-   * https://keybase.io/jeremyelder
+   * [KeyBase/jeremyelder](https://keybase.io/jeremyelder)
    * [@d0xed_irc](https://twitter.com/d0xed_irc)
 
 Jarvis
