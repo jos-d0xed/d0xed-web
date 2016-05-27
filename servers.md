@@ -59,7 +59,7 @@ Zeus
 
 GPG Signed Fingerprints
 ----------------------
-```text
+~~~~
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
@@ -82,6 +82,6 @@ qR7NzQ0VSoz5iH53bZZGavUr3S7LV+z9H9DsykCsx+Gxx/1dnMFThJ1qJk65XuzF
 C18kfIxX+gCl+3FPkD3rPCOVe3RLzKRIKYgU31GszslwZAYydynOzqiBrYq0D3o=
 =VJjS
 -----END PGP SIGNATURE-----
-```
+~~~~
 
 Signed with fingerprint [A7E5 738C AB8B 0CF9 3D36  A32B 6EF2 50FF E8AF 29C3](https://keybase.io/jeremyelder)
