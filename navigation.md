@@ -3,7 +3,7 @@
 [Home](index.md)
 [Getting Started]()
 
-   * [Nework Rules](rules.md)
+   * [Network Rules](rules.md)
    * [Initial Config](started.md)
    * [Using Services](services.md)
    * [Channels](channels.md)
