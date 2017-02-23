@@ -4,7 +4,7 @@ Contributing
 Contributions are primarily sought at the moment in 2 realms
 
    * Assistance in moderation
-   * Inviting new users
+   * Recruiting new users and promoting growth (in a non-spammy way of course)
 
 Secondary contributions, which are lesser-needed at this stage, include
 

@@ -3,7 +3,7 @@ Network Staff
 
 JoS
 -------
-   JoS started off the network with a group of fellow Sysadmins in 2009. It was a way for all of them to keep in touch throughout the day. Initially run from a Mini-ITX box in his lounge room, the network has now grown to a larger operation with much more diversity.
+   JoS started off the network with a group of fellow Sysadmins in 2009. It was a way for all of them to keep in touch throughout the day. Initially run from a Mini-ITX box in his lounge room, the network has now grown to a larger operation with greater diversity.
 
    *Responsible for:*
 
@@ -25,25 +25,31 @@ Jarvis
 
    *Responsible for:*
 
-   * Zeus node
+   * Zeus node (currently out of commission)
    * All services operations
+   * IRCop across all servers
+
+Himiko
+------
+  Himiko is our newest and youngest staff member. He doesn't know how to z-line yet, but be warned - once he does, the network will be his! P.S. Don't tell JoS.
+
+  *Responsible for:*
+
+  * Absolutely nothing (but secretly is a services operator)
+  
+  *Contact:*
+
+  * Himiko on IRC (PM him)
+  * IP over Avian Carriers (IPoAC)
+
+
+Alumni
+========
 
 Zalami
--------
- Zalami has been with d0xed for almost a year now. Interested in computer science and security related topics, always found in #banterpod
-
-   *Responsible for:*
-
-   * All services operations 
+-----
+  Zalami was a valued member of the d0xed IRC network for many years, but unfortunately real life responsibilities have stolen him away from us.
 
 Dude
--------
- Dude is a busy man, who has no time to tell you about himself just yet.
-
-   *Responsible for:*
-
-   * OperServ
-   * ChanServ
-   * MemoServ
-   * NickServ; registration activations, suspensions, etc.
-
+------
+  Dude was one of our founding members, who has unfortunately succumbed to the time demands of fatherhood. Maybe we'll see him back in a few years when his children have all grown up.
