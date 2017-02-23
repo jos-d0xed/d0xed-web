@@ -11,7 +11,7 @@ JoS
    * Rasputin (IRC + services box)
    * Initial node configurations and linking
 
- *Contact:*
+*Contact:*
 
    * JoS on IRC (obviously)
    * jeremy ::at-symbol:: d0xed.com
