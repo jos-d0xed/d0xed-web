@@ -61,7 +61,7 @@ Sometimes, the more appropriate approach is to kick a user. This temporarily exc
 
 
 ### Access modes
-There are a variety of commands used to provide access for different people to various channels. This commands will be added in future.
+There are a variety of commands used to provide access for different people to various channels. These commands will be added in future.
 
 
 BotServ
